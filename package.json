@@ -1,0 +1,11 @@
+{
+  "name": "content",
+  "version": "1.0.0",
+  "description": "- service for analyzing a single page (headings/links/buttons/images/tables/forms/landmarks)\r - service for analyzing multiple pages by crawling a website, or looping through the xml sitemap\r - service for storing the results of the crawler and scraper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
